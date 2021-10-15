@@ -1,6 +1,6 @@
 #----------------------------------------
 # Compile : strexof
-# Youtube : Strexof TV
+# Youtube : Strexof
 # Github  : https://github.com/strexof
 #----------------------------------------
 import marshal
