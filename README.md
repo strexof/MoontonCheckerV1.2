@@ -34,3 +34,6 @@ python install-strexof.py
 
 ## Donasi strexof
 [Saweria : Sulmad](https://saweria.co/sulmad)
+
+## License
+![license](https://raw.githubusercontent.com/strexof/MoontonCheckerV1.2/main/LICENSE)
