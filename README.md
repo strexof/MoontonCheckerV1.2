@@ -12,7 +12,7 @@ cd MoontonCheckerV1.2
 python install-strexof.py
 ```
 ## Masa Aktif Script
-
+![This is an image](https://github.com/sulmad)
 
 ## Koneksi Internet
 > Menjalankan script ini perlu terhubung ke koneksi internet, beserta vpn.
