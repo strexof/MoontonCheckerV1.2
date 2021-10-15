@@ -24,7 +24,7 @@ python install-strexof.py
 
 ## Pasang iklan
 > Kalian juga bisa pasang iklan yang dimana akan dipasang di script ini.
-> Bisa hubungi melalui inbox fanpage facebook : https://facebook.com/strexof
+> Bisa hubungi melalui inbox fanpage facebook : [Fanpage Strexof](https://facebook.com/strexof)
 
 ## Ikuti sosial media strexof
 [Youtube : Strexof](https://youtube.com/channel/UC1hCsU_8IJ1AbV5O-SpI5PQ)
