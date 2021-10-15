@@ -1,5 +1,5 @@
 # MoontonCheckerV1.2
-(https://i.ibb.co/8zNp6wD/20211010-122414.jpg)
+![LOGO](https://i.ibb.co/8zNp6wD/20211010-122414.jpg)
 Script moonton checker digunakan untuk pengecekan akun game mobile legends yang berisikan informasi dara berupa email dan katasandi.
 
 ## Cara pemakaian
