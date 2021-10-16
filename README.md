@@ -39,3 +39,6 @@ python install-strexof.py
 [Panduan .md](https://raw.githubusercontent.com/strexof/MoontonCheckerV1.2/main/README.md)
 
 [License](https://raw.githubusercontent.com/strexof/MoontonCheckerV1.2/main/LICENSE)
+
+## Record & Upload Script Strexof
+> Jika kalian berniat untuk coba membuat konten script strexof atau membagikan script strexof ke media sosial, diwajibkan meyertakan sumber maupun credit strexof. Dan dilarang keras mengedit ulang dengan mengganti keseluruhan script untuk kepentingan pribadi.
